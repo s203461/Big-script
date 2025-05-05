@@ -1,0 +1,2 @@
+DICT_FILE="mail.txt"
+MAX_ATTEMPTS="3"
